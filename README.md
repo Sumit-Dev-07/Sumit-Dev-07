@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Sumit%20Ojha&fontSize=40&fontAlignY=35&animation=twinkling" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Senior+Mobile+App+Developer;Android+%26+Flutter+Expert;Content+Creator+%40SumitInfoTech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Android+%26+Flutter;Content+Creator+%40SumitInfoTech" alt="Typing SVG" />
   </a>
   <br>
   <i>"Dedicated to achieving demanding development and producing impeccable code."</i>
