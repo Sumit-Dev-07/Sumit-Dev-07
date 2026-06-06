@@ -16,8 +16,8 @@
 ```kotlin
 data class Developer(
     val name: String = "Sumit Ojha",
-    val location: String = "Bhopal, Madhya Pradesh 🇮🇳",
-    val experience: String = "4.5+ Years",
+    val location: String = "Indore, Madhya Pradesh 🇮🇳",
+    val experience: String = "5 Years",
     val focus: List<String> = listOf("Android Native", "Flutter", "Jetpack Compose"),
     val achievements: List<String> = listOf(
         "50,000+ cumulative app downloads",
@@ -175,7 +175,6 @@ Results-driven Mobile App Developer with **5 years** of hands-on experience buil
 |---|---|---|---|
 | B.Tech, Computer Science | SIRTS College, RGPV University, Bhopal | 2019 – 2022 |
 | Polytechnic, Computer Science | SATI College, RGPV University, Vidisha | 2016 – 2019 |
-| High Secondary (Math/Science) | MP Board, Mandideep | 2016 |
 
 ---
 
