@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 ```kotlin
-data class Developer(
+data class SoftwareDeveloper(
     val name: String = "Sumit Ojha",
     val location: String = "Indore, Madhya Pradesh 🇮🇳",
     val experience: String = "5 Years",
