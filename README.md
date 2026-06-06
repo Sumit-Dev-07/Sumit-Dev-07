@@ -199,10 +199,10 @@ Results-driven Mobile App Developer with **5 years** of hands-on experience buil
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 CGPA |
-|---|---|---|---|
-| B.Tech, Computer Science | SIRTS College, RGPV University, Bhopal | 2019 – 2022 | -.-- |
-| Polytechnic, Computer Science | SATI College, RGPV University, Vidisha | 2016 – 2019 | -.-- |
+| 🎓 Degree | 🏫 Institution | 📅 Year |
+|---|---|---|
+| B.Tech, Computer Science | SIRTS College, RGPV University, Bhopal | 2019 – 2022 |
+| Polytechnic, Computer Science | SATI College, RGPV University, Vidisha | 2016 – 2019 |
 
 ---
 
