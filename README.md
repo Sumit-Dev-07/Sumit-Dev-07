@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4AA&height=200&section=header&text=Sumit%20Ojha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Android%20%E2%80%A2%20Flutter%20%E2%80%A2%20Kotlin&descAlignY=58&descSize=18&descColor=e0e0ff" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sumit-dev-07&label=Profile%20Views&color=6C63FF&style=flat-square)](https://github.com/sumit-dev-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukesh%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-ojha-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Ojha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-ojha-dev)
 [![Email](https://img.shields.io/badge/Email-kumarmukeshpatel57%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitojha264@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sumit-dev-07?style=flat-square&logo=github&logoColor=white)](https://github.com/sumit-dev-07)
 
