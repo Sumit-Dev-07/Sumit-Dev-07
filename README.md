@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sumit-dev-07&label=Profile%20Views&color=6C63FF&style=flat-square)](https://github.com/sumit-dev-07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Ojha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-ojha-dev)
-[![Email](https://img.shields.io/badge/Email-kumarmukeshpatel57%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitojha264@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sumitojha264%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitojha264@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sumit-dev-07?style=flat-square&logo=github&logoColor=white)](https://github.com/sumit-dev-07)
 
 </div>
